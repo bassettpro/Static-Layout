@@ -1,0 +1,45 @@
+body {
+    background-color: lightgray;
+   
+}
+
+.wrapper {
+text-align: center;
+font-family: arial
+
+
+  
+}
+.devhints {
+    color: black;
+    position: relative;
+  
+}
+
+input {
+  width: 50%;
+  padding: 12px 2px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  position: static;
+  
+}
+
+table, th, td {
+   border-collapse: separate;
+  border-spacing: 5px;  
+}
+
+table {
+  width: 49%; 
+}
+
+th, td{
+  height: 50px;
+  width: 250px
+}
+
+th {
+  background-color: blue ;
+  color: white;
+}
